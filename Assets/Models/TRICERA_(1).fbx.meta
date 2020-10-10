@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: f4addf2083317b34b933562980cdaac5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TRICrest
+    100004: TRICuerC
+    100006: TRICuerD
+    100008: TRICuerI
+    100010: TRIDori
+    100012: TRIGarDD
+    100014: TRIGarDI
+    100016: TRIGarTD
+    100018: TRIGarTI
+    100020: TRIOjoDe
+    100022: TRIOjoIz
+    400000: //RootNode
+    400002: TRICrest
+    400004: TRICuerC
+    400006: TRICuerD
+    400008: TRICuerI
+    400010: TRIDori
+    400012: TRIGarDD
+    400014: TRIGarDI
+    400016: TRIGarTD
+    400018: TRIGarTI
+    400020: TRIOjoDe
+    400022: TRIOjoIz
+    2100000: ojo
+    2100002: TRIGarr
+    2100004: TRICUER
+    2100006: CUEREMI
+    2300000: TRICrest
+    2300002: TRICuerC
+    2300004: TRICuerD
+    2300006: TRICuerI
+    2300008: TRIDori
+    2300010: TRIGarDD
+    2300012: TRIGarDI
+    2300014: TRIGarTD
+    2300016: TRIGarTI
+    2300018: TRIOjoDe
+    2300020: TRIOjoIz
+    3300000: TRICrest
+    3300002: TRICuerC
+    3300004: TRICuerD
+    3300006: TRICuerI
+    3300008: TRIDori
+    3300010: TRIGarDD
+    3300012: TRIGarDI
+    3300014: TRIGarTD
+    3300016: TRIGarTI
+    3300018: TRIOjoDe
+    3300020: TRIOjoIz
+    4300000: TRIOjoIz
+    4300002: TRIOjoDe
+    4300004: TRIGarTI
+    4300006: TRIGarTD
+    4300008: TRIGarDI
+    4300010: TRIGarDD
+    4300012: TRIDori
+    4300014: TRICuerI
+    4300016: TRICuerD
+    4300018: TRICuerC
+    4300020: TRICrest
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
